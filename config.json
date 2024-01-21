@@ -1,0 +1,106 @@
+{
+  "app": {
+    "status": true,
+    "redirect_url": ""
+  },
+  "github": {
+    "username": "mohamedragab22",
+    "repository": "Bellingham",
+    "branch": "main"
+  },
+  "settings": {
+    "more_apps_url": "https://play.google.com/store/apps/dev?id=8780480193390169899/",
+    "privacy_policy_url": "https://bellingham.ibannerlord.site/public/page/3/privacy-policy",
+    "terms_conditions_url": "https://bellingham.ibannerlord.site/public/page/2/terms-of-use",
+    "email_help_feedback": "support@ibannerlord.site",
+    "show_wallpaper_name": false,
+    "show_full_screen_wallpaper_details": false,
+    "enable_center_crop_wallpaper_details": true,
+    "enable_exit_dialog": true,
+    "enable_rtl_mode": false,
+    "enable_dark_mode_as_default_theme": false
+  },
+  "ads": {
+    "status": true,
+    "main_ads": "admob",
+    "backup_ads": "",
+    "ads_unit_id": {
+      "admob": {
+        "publisher_id": "pub-4177691308130545",
+        "app_open_id": "ca-app-pub-4177691308130545/9163796690",
+        "banner_id": "ca-app-pub-4177691308130545/2586976831",
+        "interstitial_id": "ca-app-pub-4177691308130545/2170090154",
+        "rewarded_id": "ca-app-pub-4177691308130545/6138124209",
+        "native_id": "ca-app-pub-4177691308130545/6600289756"
+      },
+      "google_ad_manager": {
+        "app_open_id": "/6499/example/app-open",
+        "banner_id": "/6499/example/banner",
+        "interstitial_id": "/6499/example/interstitial",
+        "rewarded_id": "/6499/example/rewarded",
+        "native_id": "/6499/example/native"
+      },
+      "facebook": {
+        "banner_id": "YOUR_PLACEMENT_ID",
+        "interstitial_id": "YOUR_PLACEMENT_ID",
+        "rewarded_id": "YOUR_PLACEMENT_ID",
+        "native_id": "YOUR_PLACEMENT_ID"
+      },
+      "applovin_max": {
+        "app_open_id": "0",
+        "banner_id": "0",
+        "interstitial_id": "0",
+        "rewarded_id": "0",
+        "native_id": "0"
+      },
+      "applovin_discovery": {
+        "banner_zone_id": "0",
+        "mrec_zone_id": "0",
+        "rewarded_zone_id": "0",
+        "interstitial_zone_id": "0"
+      },
+      "startapp": {
+        "app_id": "0"
+      },
+      "unity": {
+        "game_id": "4089993",
+        "banner_id": "banner",
+        "interstitial_id": "video",
+        "rewarded_id": "rewardedVideo"
+      },
+      "ironsource": {
+        "app_key": "85460dcd",
+        "banner_id": "DefaultBanner",
+        "interstitial_id": "DefaultInterstitial",
+        "rewarded_id": "DefaultRewardedVideo"
+      },
+      "wortise": {
+        "app_id": "test-app-id",
+        "app_open_id": "test-app-open",
+        "banner_id": "test-banner",
+        "interstitial_id": "test-interstitial",
+        "rewarded_id": "test-rewarded",
+        "native_id": "test-native"
+      }
+    },
+    "placement": {
+      "banner_home": true,
+      "banner_wallpaper_details": true,
+      "banner_favorite": true,
+      "interstitial_wallpaper_list": true,
+      "rewarded_wallpaper_details": true,
+      "native_wallpaper_list": true,
+      "native_exit_dialog": true,
+      "app_open_ad_on_start": false,
+      "app_open_ad_on_resume": false
+    },
+    "global": {
+      "interstitial_ad_interval": 3,
+      "native_ad_index_2_columns": 4,
+      "native_ad_index_3_columns": 6,
+      "native_ad_style_exit_dialog": "medium",
+      "native_ad_style_wallpaper_list": "large",
+      "native_ad_style_wallpaper_details": "large"
+    }
+  }
+}
