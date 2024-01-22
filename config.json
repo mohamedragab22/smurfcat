@@ -18,7 +18,7 @@
     "enable_center_crop_wallpaper_details": true,
     "enable_exit_dialog": true,
     "enable_rtl_mode": false,
-    "enable_dark_mode_as_default_theme": false
+    "enable_dark_mode_as_default_theme": true
   },
   "ads": {
     "status": true,
