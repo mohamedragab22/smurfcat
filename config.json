@@ -95,7 +95,7 @@
       "app_open_ad_on_resume": false
     },
     "global": {
-      "interstitial_ad_interval": 2,
+      "interstitial_ad_interval": 3,
       "native_ad_index_2_columns": 4,
       "native_ad_index_3_columns": 6,
       "native_ad_style_exit_dialog": "medium",
